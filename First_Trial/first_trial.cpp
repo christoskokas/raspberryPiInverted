@@ -1,4 +1,5 @@
 //Inverted Pendulum with DC Motor and Rotary Encoder
+//trying sth
 
 #include <iostream>
 #include <wiringPi.h>
